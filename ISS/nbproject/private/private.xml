@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/webservice/ISSWebService.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/ejbs/ConfigBean.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/dto/UserDTO.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/ejbs/ProductFacade.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/webservice/ISSWebServiceHandler.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/utils/Utils.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/entities/Product.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/dto/ProductDTO.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/ejbs/UserFacade.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/java/entities/User.java</file>
+            <file>file:/C:/Users/Ivo/Documents/NetBeansProjects/ISS/src/conf/persistence.xml</file>
+        </group>
+    </open-files>
+</project-private>
